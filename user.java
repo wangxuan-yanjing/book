@@ -4,4 +4,5 @@ privte int id ;
 privte String username;
 
 privte String password;
+privte String sex;
 }
